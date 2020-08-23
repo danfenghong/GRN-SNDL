@@ -26,9 +26,4 @@ This repo contains the codes for the TGRS paper: [Graph Relation Network: Modeli
   note={DOI: 10.1109/TGRS.2020.3016020}
   publisher={IEEE}
 }
-```
-
-## References
-
-[1] Wu, Zhirong, Alexei A. Efros, and Stella X. Yu. "Improving generalization via scalable neighborhood component analysis." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
