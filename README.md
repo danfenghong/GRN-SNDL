@@ -17,6 +17,8 @@ This repo contains the codes for the TGRS paper: [Graph Relation Network: Modeli
 
 ## Citation
 
+Jian Kang, Ruben Fernandez-Beltran, Danfeng Hong*, Jocelyn Chanussot, Antonio Plaza. Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval, IEEE Transactions on Geoscience and Remote Sensing, 2020, DOI: 10.1109/TGRS.2020.3016020. 
+
 ```
 @article{kang2020graph,
   title={Graph Relation Network: Modeling Relations between Scenes for MultiLabel Remote-Sensing Image Classification and Retrieval},
